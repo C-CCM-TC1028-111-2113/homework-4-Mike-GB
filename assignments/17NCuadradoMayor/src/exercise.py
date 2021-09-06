@@ -2,7 +2,7 @@
 
 def main():
     #Escribe tu código debajo de esta línea
-    pass
+    
 
     v=1
     while v**2<=num:
